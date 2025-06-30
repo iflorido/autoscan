@@ -1,0 +1,5 @@
+train: coco8/images/train
+val: coco8/images/val
+
+nc: 2
+names: ['dos_fotogramas', 'uno_solo']

@@ -1,0 +1,10 @@
+Por favor, utilice la opción --debug para obtener los mensajes de depuración.
+Estos mensajes pueden ayudar a encontrar una solución a su problema.
+Si piensa enviar cualquier mensaje de error o de depuración a la lista
+de distribución de desarrolladores de gPhoto <gphoto-devel@lists.sourceforge.net>,
+por favor ejecute gphoto2 como sigue:
+
+    env LANG=C gphoto2 --debug --debug-logfile=my-logfile.txt --capture-preview --stdout
+
+Please make sure there is sufficient quoting around the arguments.
+
